@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Karina :)
 
-<!--
-**karina-azizova/karina-azizova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Master's student at HWR Berlin (M.Sc. Business Intelligence and Process Management)
+- Interested in Data-driven decision making and process optimization/automatization
+- Currently exploring ML applications in forecasting, business intelligence and language processing
+- Open to Working Student / Intern / Trainee roles in Data, Consulting, SAP, and Supply Chain
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python (Pandas, NumPy, Scikit-learn, Catboost, XGBoost, LightGBM, Matplotlib/Seaborn)
+- SQL
+- ETL/ELT pipelines: data cleaning, transformation
+- Power BI / Tableau: data visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## Featured Projects  
+<--### 1. Project Name
+Short description
+Tech stack
+Key results
+Link
+
+### 2. Project Name 
 -->
+
+
+## Currently Working On
+NLP Basics
+
+## Contact
+https://www.linkedin.com/in/karina-azizova-461b53253/
+karina.azizova.dku@gmail.com 
