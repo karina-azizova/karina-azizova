@@ -14,7 +14,8 @@
 
 
 ## Featured Projects  
-<--### 1. Project Name
+<--
+### 1. Project Name
 Short description
 Tech stack
 Key results
